@@ -1,0 +1,111 @@
+body {
+    /* background-image: linear-gradient(to top, #0b586a 0%, #1fc6ed 100%);*/
+  
+    background-repeat: no-repeat;
+    height: 800px;
+    padding: 0;
+    margin: 0;
+}
+.div1 {
+    width: 10px;
+    background-color: #fff;
+    margin: 20px auto 50px;
+    text-align: center;
+    padding: 10px 30px;
+    position: relative;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    top: -600px;
+}
+
+
+h1 {
+    display: none;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+.img1 {
+margin:auto;
+padding:20px 0px;
+display:none;
+}
+
+.input1 {
+    width: 100%;
+    height: 38px;
+    margin: 15px 0px;
+   display:none;
+}
+.btn1 {
+    position: relative;
+    background-color:cornflowerblue;
+    color:white;
+    font-size:large;
+    margin:auto;
+    margin-top:15px;
+    margin-bottom:20px;
+    padding: 10px 0;
+    width: 100%;
+    border-radius:10px;
+    height: 47px;
+    display: none;
+}
+
+.checkbox {
+    position: relative;
+    left: 200px;
+    display: none;
+    color: #337ab7;
+}
+
+a.forget {
+    position: relative;
+    right: 200px;
+    display: none;
+}
+.sign_up {
+    position: relative;
+    margin: auto;
+    display:none;
+}
+
+/*this form registration page*/
+
+
+.div2 {
+    width: 600px;
+    background-color: #fff;
+    margin: 50px auto 50px;
+    text-align: center;
+    padding: 10px 30px;
+    position: relative;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+
+}
+.input2 {
+    width: 100%;
+    height: 38px;
+    margin: 15px 0px;
+}
+
+/*home page*/
+.control {
+margin:0px 20px;
+
+}
+/*shope page*/
+.product .item {
+    text-align: center;
+    display: block;
+    position: relative;
+    border-bottom: 1px solid #eee;
+    min-height: 520px;
+    max-height: 520px;
+}
+.heart1 {
+color:red;
+}
+
+.site-blocks-table thead th {
+    padding: 20px 9px;
+}
